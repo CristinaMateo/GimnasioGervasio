@@ -1,4 +1,6 @@
-
+body{
+    margin:5%;
+}
 header{
     background-color: rgb(170, 234, 234);
     text-align: center;
@@ -53,6 +55,13 @@ td{
     font-weight: bold;
 }
 
+h3{
+ margin-left: 80px;
+ font-size: larger;
+ text-decoration: underline;
+ width: max-content;
+ padding: 10px; 
+}
 img{
     height: 100%;
     width: 100%;
