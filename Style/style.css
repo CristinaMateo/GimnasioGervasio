@@ -1,0 +1,28 @@
+section#factura table {
+    border-collapse: collapse;
+    width: 75%;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: small;
+    
+  }
+table tr {
+    padding: 8px;
+    text-align: left;
+
+}
+td{
+    border: 1px solid #0f0e0e;
+    height: 20px;
+}
+#first{
+    background-color: #e4e4e4;
+    font-weight: bold;
+}
+#third {
+    background-color: #e4e4e4;
+    font-weight: bold;
+}
+.one{
+    background-color: #e4e4e4;
+    font-weight: bold;
+}
